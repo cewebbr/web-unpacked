@@ -23,7 +23,9 @@ This paper presents a comprehensive analysis of global web usage patterns based 
 ## Annotated data
 
 The results from the manual inspection and research about the 116 most visited domains in the world can be found here: 
-[data/cleaned/domains-annotated_metadata_v03.md](data/cleaned/domains-annotated_metadata_v03.md).
+[data/cleaned/domains-annotated_v03.csv](data/cleaned/domains-annotated_v03.csv)
+
+The metadata about it is located here: [data/cleaned/domains-annotated_metadata_v03.md](data/cleaned/domains-annotated_metadata_v03.md).
 
 ## Contact
 
