@@ -1,0 +1,81 @@
+domain,description,sector,industry,period_start,period_end,in_list,industry_rank,global_rank,redirects,monthly_visits,unique_visitors,visits_per_visitor,visit_duration,pages_per_visit,bounce_rate,page_views
+admanager.google.com,,,,2023-11,2024-1,0,,,0,2209000.0,,,739.0,13.43,0.2,29670000.0
+ads.google.com,Google Ads site for advertisers,,,2023-10,2023-12,0,,,0,60700000.0,,,600.0,9.16,0.30260000000000004,555800000.0
+adsense.google.com,Google AdSense for publishers,,,2023-10,2023-12,0,,,0,9451000.0,,,78.0,1.91,0.6866,18020000.0
+analytics.google.com,Google Analytics,,,2023-10,2023-12,0,,,0,40460000.0,,,381.0,6.14,0.32420000000000004,248400000.0
+answers.google.com,Retired Google Answers site,Science and Education,Science and Education - Other,2023-10,2023-12,0,1249.0,370203.0,0,196393.0,,,5.0,1.24,0.8411,243417.0
+apps.google.com,Google Workspace,,,2023-10,2023-12,0,,,1,9080000.0,,,54.0,1.63,0.5627,14770000.0
+artsandculture.google.com,Google Arts & Culture,,,2023-10,2023-12,0,,,0,9095000.0,,,132.0,6.6,0.4707,60060000.0
+assistant.google.com,,,,2023-11,2024-1,0,,,0,3478000.0,,,63.0,1.9,0.65,6596000.0
+bard.google.com,,,,2023-11,2024-1,0,,,0,291600000.0,,,392.0,4.92,0.3,1434000000.0
+blog.google.com,,,,2023-10,2023-12,0,,,0,-5000.0,,,,1.03,0.9787,-5000.0
+books.google.com,Google textbook search,,,2023-10,2023-12,0,,,0,31840000.0,,,98.0,1.8,0.7009000000000001,57450000.0
+calendar.google.com,Google Calendar,,,2023-10,2023-12,0,,,0,1118000000.0,,,372.0,5.21,0.4008,5830000000.0
+chat.google.com,Google Chat,,,2023-10,2023-12,0,,,1,2174000.0,,,85.0,1.85,0.5942000000000001,4019000.0
+chrome.google.com,Google Chrome browser,,,2023-10,2023-12,0,,,1,157300000.0,,,122.0,3.24,0.4257,509800000.0
+clients1.google.com,,,,2023-10,2023-12,0,,,1,28672.0,,,11.0,1.19,0.8844,34033.0
+clients2.google.com,,,,2023-10,2023-12,0,,,1,35121.0,,,62.0,1.7,0.6506000000000001,59766.0
+clients3.google.com,,,,2023-10,2023-12,0,,,1,14600000.0,,,34.0,1.16,0.8676999999999999,16880000.0
+clients4.google.com,,,,2023-10,2023-12,0,,,1,27309.0,,,2.0,1.17,0.8199,31937.0
+clients5.google.com,,,,2023-10,2023-12,0,,,1,326204.0,,,1.0,1.14,0.8811,370974.0
+cloud.google.com,Google Cloud Computing services,Computers Electronics and Technology,Programming and Developer Software,2023-10,2023-12,1,34.0,1188.0,0,32710000.0,,,469.0,8.57,0.3968,280400000.0
+code.google.com,Google Code archive site for developers,,,2023-10,2023-12,0,,,0,1480000.0,,,58.0,2.26,0.517,3343000.0
+contacts.google.com,Google Contacts,,,2023-10,2023-12,0,,,0,53080000.0,,,291.0,4.94,0.3486,262100000.00000003
+crowdsource.google.com,Google Crowdsource,,,2023-10,2023-12,0,,,0,2161000.0,,,37.0,2.06,0.5563,4460000.0
+datacompute.google.com,Google Data Compute,,,2023-10,2023-12,0,,,0,373557.0,,,707.0,7.2,0.5193,2689000.0
+developers.google.com,Google Developers site,,,2023-10,2023-12,0,,,0,18740000.0,,,176.0,2.75,0.6006,51620000.0
+docs.google.com,Google Docs,,,2023-10,2023-12,0,,,0,5539000000.0,,,553.0,8.26,0.30920000000000003,45760000000.0
+drive.google.com,Google Drive,,,2023-10,2023-12,0,,,0,2534000000.0,,,338.0,5.34,0.29410000000000003,13530000000.0
+duo.google.com,Google Duo,,,2023-10,2023-12,0,,,1,1872000.0,,,73.0,1.79,0.6840999999999999,3358000.0
+earth.google.com,Google Earth,,,2023-10,2023-12,0,,,0,28380000.0,,,553.0,70.2,0.1,1992000000.0
+edu.google.com,Google Education site,,,2023-10,2023-12,0,,,0,14950000.0,,,122.0,1.85,0.6263000000000001,27740000.0
+enterprise.google.com,,,,2023-11,2024-1,0,,,1,583045.0,,,57.0,2.49,0.56,1452000.0
+families.google,,Computers Electronics and Technology,Email,2023-10,2023-12,1,27.0,10107.0,0,8708000.0,,,64.0,1.58,0.7054,13730000.0
+families.google.com,,,,2023-10,2023-12,0,,,1,6710000.0,,,130.0,2.69,0.469,18030000.0
+files.google.com,Files app for Android,,,2023-10,2023-12,0,,,0,368576.0,,,10.0,1.27,0.7829999999999999,467754.0
+finance.google.com,Google Finance site for stock market prices and real time quotes,Finance,Finance - Other,2023-10,2023-12,0,1386.0,100831.0,1,1185000.0,,,153.0,1.47,0.7728,1737000.0
+firebase.google.com,Google Firebase for building and running apps,,,2023-10,2023-12,0,,,0,16110000.0,,,498.0,9.87,0.3258,159100000.0
+fonts.google.com,Google Fonts site for viewing and downloading fonts and Material icons,,,2023-10,2023-12,0,,,0,12560000.0,,,209.0,5.74,0.4146,72110000.0
+fonts.googleapis.com,"Google Fonts API, no direct access",Computers Electronics and Technology,Programming and Developer Software,2023-10,2023-12,0,2353.0,106674.0,0,681570.0,,,63.0,1.67,0.7112,1137000.0
+food.google.com,,Food and Drink,Food and Drink - Other,2023-10,2023-12,1,4.0,1360.0,0,34180000.0,,,192.0,4.14,0.1902,141600000.0
+get.google.com,,,,2023-10,2023-12,0,,,1,4950000.0,,,151.0,6.43,0.4715,31840000.0
+gmail.com,Gmail direct domain,Computers Electronics and Technology,Email,2023-10,2023-12,1,8.0,1224.0,1,77320000.0,,,30.0,1.32,0.8047,102300000.0
+google.com,Main domain,Computers Electronics and Technology,Computers Electronics and Technology - Other,2023-10,2023-12,1,1.0,1.0,0,85020000000.0,,,640.0,8.67,0.2825,736800000000.0
+googleapis.com,,Computers Electronics and Technology,Programming and Developer Software,2023-11,2024-1,0,2618.0,117635.0,0,615650.0,,,64.0,1.78,0.6368,1095000.0
+googlevideo.com,,Computers Electronics and Technology,Search Engines,2023-11,2024-1,1,74.0,2185.0,1,-5000.0,,,,1.0,1.0,-5000.0
+groups.google.com,Google Groups site,,,2023-10,2023-12,0,,,0,28190000.0,,,134.0,2.87,0.6015,80820000.0
+gsuite.google.com,,,,2023-11,2024-1,0,,,1,10720000.0,,,83.0,3.55,0.45,38080000.0
+hangouts.google.com,Google Hangouts,,,2023-10,2023-12,0,,,1,4339000.0,,,49.0,1.63,0.6533,7082000.0
+images.google.com,Google image search page,,,2023-10,2023-12,0,,,0,16000000.0,,,122.0,1.6,0.6976,25580000.0
+lens.google,,Computers Electronics and Technology,Computers Electronics and Technology - Other,2023-10,2023-12,0,505.0,14102.0,0,5301000.0,,,78.0,2.38,0.4696,12610000.0
+lens.google.com,Google Lens,,,2023-10,2023-12,0,,,1,89010000.0,,,278.0,6.14,0.17149999999999999,546800000.0
+mail.google.com,Gmail website and needs login access,,,2023-10,2023-12,0,,,0,10880000000.0,,,717.0,9.14,0.1728,99510000000.0
+maps.google.com,Google Maps,Reference Materials,Maps,2023-11,2024-1,1,1.0,241.0,1,252500000.0,,,16.0,1.25,0.6242,314700000.0
+marketingplatform.google.com,,,,2023-11,2024-1,0,,,0,3170000.0,,,78.0,1.99,0.7,6300000.0
+meet.google.com,Google Meet,,,2023-11,2024-1,0,,,0,569700000.0,,,276.0,3.77,0.36590000000000006,2145000000.0
+messages.google.com,,,,2023-11,2024-1,0,,,0,90810000.0,,,454.0,3.71,0.37,337100000.0
+myaccount.google.com,,,,2023-11,2024-1,0,,,0,553000000.0,,,175.0,3.96,0.4289,2190000000.0
+news.google.com,Google News website for reading current happenings,News and Media,News and Media,2023-11,2024-1,1,15.0,115.0,0,382800000.0,,,340.0,3.84,0.3776,1470000000.0
+one.google.com,"Google Cloud storage, backup and VPN",,,2023-11,2024-1,0,,,0,57120000.0,,,199.0,3.55,0.4386,202500000.0
+opensource.google.com,Google Open Source,,,2023-11,2024-1,0,,,0,15645.0,,,,1.35,0.6479,21198.0
+orderfood.google.com,,,,2023-11,2024-1,0,,,0,390520.0,,,87.0,3.31,0.4596,1293000.0
+pay.google.com,,,,2023-11,2024-1,0,,,1,26890000.0,,,145.0,2.79,0.61,74970000.0
+payments.google.com,,,,2023-11,2024-1,0,,,0,29410000.0,,,113.0,2.65,0.52,77900000.0
+photos.google.com,Google Photos,,,2023-11,2024-1,0,,,0,257100000.00000003,,,449.0,20.85,0.2659,5360000000.0
+picasa.google.com,Retired Picasa site now available as Google Photos app,,,2023-11,2024-1,0,,,0,501920.0,,,31.0,1.52,0.6437,762911.0
+play.google.com,Google Play Store,,,2023-11,2024-1,0,,,0,1087000000.0,,,119.0,2.58,0.6102000000000001,2804000000.0
+podcasts.google.com,Google Podcasts,,,2023-11,2024-1,0,,,0,8586000.0,,,159.0,2.57,0.5352,22060000.0
+podcastsmanager.google.com,,,,2023-11,2024-1,0,,,0,184005.0,,,129.0,4.74,0.46,872025.0
+scholar.google.com,Google Scholar,,,2023-11,2024-1,0,,,0,135700000.0,,,443.0,5.99,0.2967,814000000.0
+search.google.com,Google Search,,,2023-11,2024-1,0,,,1,39120000.0,,,342.0,6.17,0.332,241400000.0
+shopping.google.com,,Ecommerce and Shopping,Coupons and Rebates,2023-11,2024-1,1,65.0,19850.0,0,3520000.0,,,78.0,2.79,0.5859000000000001,9830000.0
+sites.google.com,Google Sites,,,2023-11,2024-1,0,,,0,212100000.0,,,210.0,3.17,0.5456,672500000.0
+stadia.google.com,Google Stadia gaming platform,,,2023-11,2024-1,0,,,0,654773.0,,,16.0,2.01,0.6269,1315000.0
+storage.googleapis.com,,Computers Electronics and Technology,Computers Electronics and Technology - Other,2023-11,2024-1,1,67.0,1764.0,0,39560000.0,,,162.0,2.19,0.6219,86780000.0
+store.google.com,Google product store,,,2023-11,2024-1,0,,,0,28930000.0,,,119.0,3.57,0.4938,103200000.0
+support.google.com,Google products support,,,2023-11,2024-1,0,,,0,1484000000.0,,,101.0,1.91,0.6026,2835000000.0
+translate.google.com,Google Translate website,,,2023-11,2024-1,0,,,0,693700000.0,,,482.0,26.35,0.2605,18280000000.0
+videos.google.com,Google video search page,,,2023-11,2024-1,0,,,0,38577.0,,,1.0,1.07,0.8611,41256.0
+voice.google.com,,,,2023-11,2024-1,0,,,0,67770000.0,,,372.0,3.87,0.47,262200000.0
+wearos.google.com,,,,2023-11,2024-1,0,,,0,731707.0,,,84.0,2.85,0.42,2084000.0
+workspace.google.com,Google Workspace,,,2023-11,2024-1,0,,,0,53600000.0,,,130.0,2.86,0.528,153300000.0

@@ -1,0 +1,81 @@
+domain,description,industry_url,period_start,period_end,in_list,industry_rank,global_rank,redirects,monthly_visits,unique_visitors,visits_per_visitor,visit_duration,pages_per_visit,bounce_rate,page_views
+google.com,Main domain,https://pro.similarweb.com/#/industry/topsites/Computers_Electronics_and_Technology~Computers_Electronics_and_Technology/76/1m,2023-10,2023-12,1,1,1,0,85.02B,N/A,N/A,00:10:40,8.67,28.25%,736.8B
+ads.google.com,Google Ads site for advertisers,,2023-10,2023-12,0,,,0,60.70M,N/A,N/A,00:10:00,9.16,30.26%,555.8M
+adsense.google.com,Google AdSense for publishers,,2023-10,2023-12,0,,,0,9.451M,N/A,N/A,00:01:18,1.91,68.66%,18.02M
+analytics.google.com,Google Analytics,,2023-10,2023-12,0,,,0,40.46M,N/A,N/A,00:06:21,6.14,32.42%,248.4M
+answers.google.com,Retired Google Answers site,https://pro.similarweb.com/#/industry/topsites/Science_and_Education~Science_and_Education/840/1m,2023-10,2023-12,0,"1,249","370,203",0,"196,393",N/A,N/A,00:00:05,1.24,84.11%,"243,417"
+apps.google.com,Google Workspace,,2023-10,2023-12,0,,,1,9.080M,N/A,N/A,00:00:54,1.63,56.27%,14.77M
+artsandculture.google.com,Google Arts & Culture,,2023-10,2023-12,0,,,0,9.095M,N/A,N/A,00:02:12,6.6,47.07%,60.06M
+blog.google.com,,,2023-10,2023-12,0,,,0,"< 5,000",N/A,N/A,N/A,1.03,97.87%,"< 5,000"
+books.google.com,Google textbook search,,2023-10,2023-12,0,,,0,31.84M,N/A,N/A,00:01:38,1.8,70.09%,57.45M
+calendar.google.com,Google Calendar,,2023-10,2023-12,0,,,0,1.118B,N/A,N/A,00:06:12,5.21,40.08%,5.830B
+chat.google.com,Google Chat,,2023-10,2023-12,0,,,1,2.174M,N/A,N/A,00:01:25,1.85,59.42%,4.019M
+chrome.google.com,Google Chrome browser,,2023-10,2023-12,0,,,1,157.3M,N/A,N/A,00:02:02,3.24,42.57%,509.8M
+clients1.google.com,,,2023-10,2023-12,0,,,1,"28,672",N/A,N/A,00:00:11,1.19,88.44%,"34,033"
+clients2.google.com,,,2023-10,2023-12,0,,,1,"35,121",N/A,N/A,00:01:02,1.7,65.06%,"59,766"
+clients3.google.com,,,2023-10,2023-12,0,,,1,14.60M,N/A,N/A,00:00:34,1.16,86.77%,16.88M
+clients4.google.com,,,2023-10,2023-12,0,,,1,"27,309",N/A,N/A,00:00:02,1.17,81.99%,"31,937"
+clients5.google.com,,,2023-10,2023-12,0,,,1,"326,204",N/A,N/A,00:00:01,1.14,88.11%,"370,974"
+cloud.google.com,Google Cloud Computing services,https://pro.similarweb.com/#/industry/topsites/Computers_Electronics_and_Technology~Programming_and_Developer_Software/840/1m,2023-10,2023-12,1,34,"1,188",0,32.71M,N/A,N/A,00:07:49,8.57,39.68%,280.4M
+code.google.com,Google Code archive site for developers,,2023-10,2023-12,0,,,0,1.480M,N/A,N/A,00:00:58,2.26,51.70%,3.343M
+contacts.google.com,Google Contacts,,2023-10,2023-12,0,,,0,53.08M,N/A,N/A,00:04:51,4.94,34.86%,262.1M
+crowdsource.google.com,Google Crowdsource,,2023-10,2023-12,0,,,0,2.161M,N/A,N/A,00:00:37,2.06,55.63%,4.460M
+datacompute.google.com,Google Data Compute,,2023-10,2023-12,0,,,0,"373,557",N/A,N/A,00:11:47,7.2,51.93%,2.689M
+developers.google.com,Google Developers site,,2023-10,2023-12,0,,,0,18.74M,N/A,N/A,00:02:56,2.75,60.06%,51.62M
+docs.google.com,Google Docs,,2023-10,2023-12,0,,,0,5.539B,N/A,N/A,00:09:13,8.26,30.92%,45.76B
+drive.google.com,Google Drive,,2023-10,2023-12,0,,,0,2.534B,N/A,N/A,00:05:38,5.34,29.41%,13.53B
+duo.google.com,Google Duo,,2023-10,2023-12,0,,,1,1.872M,N/A,N/A,00:01:13,1.79,68.41%,3.358M
+earth.google.com,Google Earth,,2023-10,2023-12,0,,,0,28.38M,N/A,N/A,00:09:13,70.2,10.00%,1.992B
+edu.google.com,Google Education site,,2023-10,2023-12,0,,,0,14.95M,N/A,N/A,00:02:02,1.85,62.63%,27.74M
+families.google,,https://pro.similarweb.com/#/industry/topsites/Computers_Electronics_and_Technology~Email/840/1m,2023-10,2023-12,1,27,"10,107",0,8.708M,N/A,N/A,00:01:04,1.58,70.54%,13.73M
+families.google.com,,,2023-10,2023-12,0,,,1,6.710M,N/A,N/A,00:02:10,2.69,46.90%,18.03M
+files.google.com,Files app for Android,,2023-10,2023-12,0,,,0,"368,576",N/A,N/A,00:00:10,1.27,78.30%,"467,754"
+finance.google.com,Google Finance site for stock market prices and real time quotes,https://pro.similarweb.com/#/industry/topsites/Finance~Finance/724/1m,2023-10,2023-12,0,"1,386","100,831",1,1.185M,N/A,N/A,00:02:33,1.47,77.28%,1.737M
+firebase.google.com,Google Firebase for building and running apps,,2023-10,2023-12,0,,,0,16.11M,N/A,N/A,00:08:18,9.87,32.58%,159.1M
+fonts.google.com,Google Fonts site for viewing and downloading fonts and Material icons,,2023-10,2023-12,0,,,0,12.56M,N/A,N/A,00:03:29,5.74,41.46%,72.11M
+fonts.googleapis.com,"Google Fonts API, no direct access",https://pro.similarweb.com/#/industry/topsites/Computers_Electronics_and_Technology~Programming_and_Developer_Software/840/1m,2023-10,2023-12,0,"2,353","106,674",0,"681,570",N/A,N/A,00:01:03,1.67,71.12%,1.137M
+food.google.com,,https://pro.similarweb.com/#/industry/topsites/Food_and_Drink~Food_and_Drink/840/1m,2023-10,2023-12,1,4,"1,360",0,34.18M,N/A,N/A,00:03:12,4.14,19.02%,141.6M
+get.google.com,,,2023-10,2023-12,0,,,1,4.950M,N/A,N/A,00:02:31,6.43,47.15%,31.84M
+groups.google.com,Google Groups site,,2023-10,2023-12,0,,,0,28.19M,N/A,N/A,00:02:14,2.87,60.15%,80.82M
+hangouts.google.com,Google Hangouts,,2023-10,2023-12,0,,,1,4.339M,N/A,N/A,00:00:49,1.63,65.33%,7.082M
+images.google.com,Google image search page,,2023-10,2023-12,0,,,0,16.00M,N/A,N/A,00:02:02,1.6,69.76%,25.58M
+lens.google,,https://pro.similarweb.com/#/industry/topsites/Computers_Electronics_and_Technology~Computers_Electronics_and_Technology/840/1m,2023-10,2023-12,0,505,"14,102",0,5.301M,N/A,N/A,00:01:18,2.38,46.96%,12.61M
+lens.google.com,Google Lens,,2023-10,2023-12,0,,,1,89.01M,N/A,N/A,00:04:38,6.14,17.15%,546.8M
+gmail.com,Gmail direct domain,https://pro.similarweb.com/#/industry/topsites/Computers_Electronics_and_Technology~Email/840/1m,2023-10,2023-12,1,8,"1,224",1,77.32M,N/A,N/A,00:00:30,1.32,80.47%,102.3M
+mail.google.com,Gmail website and needs login access,,2023-10,2023-12,0,,,0,10.88B,N/A,N/A,00:11:57,9.14,17.28%,99.51B
+maps.google.com,Google Maps,https://pro.similarweb.com/#/industry/topsites/Reference_Materials~Maps/840/1m,2023-11,2024-1,1,1,241,1,252.5M,N/A,N/A,00:00:16,1.25,62.42%,314.7M
+meet.google.com,Google Meet,,2023-11,2024-1,0,,,0,569.7M,N/A,N/A,00:04:36,3.77,36.59%,2.145B
+myaccount.google.com,,,2023-11,2024-1,0,,,0,553.0M,N/A,N/A,00:02:55,3.96,42.89%,2.190B
+news.google.com,Google News website for reading current happenings,https://pro.similarweb.com/#/industry/topsites/News_and_Media/840/1m,2023-11,2024-1,1,15,115,0,382.8M,N/A,N/A,00:05:40,3.84,37.76%,1.470B
+one.google.com,"Google Cloud storage, backup and VPN",,2023-11,2024-1,0,,,0,57.12M,N/A,N/A,00:03:19,3.55,43.86%,202.5M
+opensource.google.com,Google Open Source,,2023-11,2024-1,0,,,0,"15,645",N/A,N/A,N/A,1.35,64.79%,"21,198"
+orderfood.google.com,,,2023-11,2024-1,0,,,0,"390,520",N/A,N/A,00:01:27,3.31,45.96%,1.293M
+photos.google.com,Google Photos,,2023-11,2024-1,0,,,0,257.1M,N/A,N/A,00:07:29,20.85,26.59%,5.360B
+picasa.google.com,Retired Picasa site now available as Google Photos app,,2023-11,2024-1,0,,,0,"501,920",N/A,N/A,00:00:31,1.52,64.37%,"762,911"
+play.google.com,Google Play Store,,2023-11,2024-1,0,,,0,1.087B,N/A,N/A,00:01:59,2.58,61.02%,2.804B
+podcasts.google.com,Google Podcasts,,2023-11,2024-1,0,,,0,8.586M,N/A,N/A,00:02:39,2.57,53.52%,22.06M
+scholar.google.com,Google Scholar,,2023-11,2024-1,0,,,0,135.7M,N/A,N/A,00:07:23,5.99,29.67%,814.0M
+search.google.com,Google Search,,2023-11,2024-1,0,,,1,39.12M,N/A,N/A,00:05:42,6.17,33.20%,241.4M
+shopping.google.com,,https://pro.similarweb.com/#/industry/topsites/E-commerce_and_Shopping~Coupons_and_Rebates/840/1m,2023-11,2024-1,1,65,"19,850",0,3.520M,N/A,N/A,00:01:18,2.79,58.59%,9.830M
+sites.google.com,Google Sites,,2023-11,2024-1,0,,,0,212.1M,N/A,N/A,00:03:30,3.17,54.56%,672.5M
+stadia.google.com,Google Stadia gaming platform,,2023-11,2024-1,0,,,0,"654,773",N/A,N/A,00:00:16,2.01,62.69%,1.315M
+storage.googleapis.com,,https://pro.similarweb.com/#/industry/topsites/Computers_Electronics_and_Technology~Computers_Electronics_and_Technology/840/1m,2023-11,2024-1,1,67,"1,764",0,39.56M,N/A,N/A,00:02:42,2.19,62.19%,86.78M
+store.google.com,Google product store,,2023-11,2024-1,0,,,0,28.93M,N/A,N/A,00:01:59,3.57,49.38%,103.2M
+support.google.com,Google products support,,2023-11,2024-1,0,,,0,1.484B,N/A,N/A,00:01:41,1.91,60.26%,2.835B
+translate.google.com,Google Translate website,,2023-11,2024-1,0,,,0,693.7M,N/A,N/A,00:08:02,26.35,26.05%,18.28B
+videos.google.com,Google video search page,,2023-11,2024-1,0,,,0,"38,577",N/A,N/A,00:00:01,1.07,86.11%,"41,256"
+workspace.google.com,Google Workspace,,2023-11,2024-1,0,,,0,53.60M,N/A,N/A,00:02:10,2.86,52.80%,153.3M
+googleapis.com,,https://pro.similarweb.com/#/industry/topsites/Computers_Electronics_and_Technology~Programming_and_Developer_Software/840/1m,2023-11,2024-1,0,"2,618","117,635",0,"615,650",N/A,N/A,00:01:04,1.78,63.68%,1.095M
+googlevideo.com,,https://pro.similarweb.com/#/industry/topsites/Computers_Electronics_and_Technology~Search_Engines/840/1m,2023-11,2024-1,1,74,"2,185",1,"< 5,000",N/A,N/A,N/A,1,100.00%,"< 5,000"
+gsuite.google.com,,,2023-11,2024-1,0,,,1,10.72M,N/A,N/A,00:01:23,3.55,45%,38.08M
+pay.google.com,,,2023-11,2024-1,0,,,1,26.89M,N/A,N/A,00:02:25,2.79,61%,74.97M
+payments.google.com,,,2023-11,2024-1,0,,,0,29.41M,N/A,N/A,00:01:53,2.65,52%,77.90M
+messages.google.com,,,2023-11,2024-1,0,,,0,90.81M,N/A,N/A,00:07:34,3.71,37%,337.1M
+wearos.google.com,,,2023-11,2024-1,0,,,0,"731,707",N/A,N/A,00:01:24,2.85,42%,2.084M
+bard.google.com,,,2023-11,2024-1,0,,,0,291.6M,N/A,N/A,00:06:32,4.92,30%,1.434B
+assistant.google.com,,,2023-11,2024-1,0,,,0,3.478M,N/A,N/A,00:01:03,1.9,65%,6.596M
+voice.google.com,,,2023-11,2024-1,0,,,0,67.77M,N/A,N/A,00:06:12,3.87,47%,262.2M
+admanager.google.com,,,2023-11,2024-1,0,,,0,2.209M,N/A,N/A,00:12:19,13.43,20%,29.67M
+enterprise.google.com,,,2023-11,2024-1,0,,,1,"583,045",N/A,N/A,00:00:57,2.49,56%,1.452M
+marketingplatform.google.com,,,2023-11,2024-1,0,,,0,3.170M,N/A,N/A,00:01:18,1.99,70%,6.300M
+podcastsmanager.google.com,,,2023-11,2024-1,0,,,0,"184,005",N/A,N/A,00:02:09,4.74,46%,"872,025"

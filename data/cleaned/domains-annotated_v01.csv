@@ -1,0 +1,117 @@
+position,domain,industry,software_as_service,content_producer,user_content_platform,needs_login,charge_users,mainly_web,owner,for_profit,owner_country
+1,google.com,Search Engines,0,0,0,0,0,1,Alphabet,1,United States
+2,youtube.com,TV Movies and Streaming,0,0,1,0,0,1,Alphabet,1,United States
+3,facebook.com,Social Networks and Online Communities,0,0,1,1,0,1,Meta,1,United States
+4,instagram.com,Social Networks and Online Communities,0,0,1,1,0,1,Meta,1,United States
+5,twitter.com,Social Networks and Online Communities,0,0,1,1,0,1,Elon Musk,1,United States
+6,baidu.com,Search Engines,0,0,0,0,0,1,Baidu,1,China
+7,wikipedia.org,Dictionaries and Encyclopedias,0,0,1,0,0,1,Wikimedia,0,United States
+8,yahoo.com,News and Media,0,1,0,0,0,1,Apollo,1,United States
+9,yandex.ru,Search Engines,0,0,0,0,0,1,Yandex,1,Russia
+10,whatsapp.com,Social Networks and Online Communities,0,0,1,1,0,1,Meta,1,United States
+11,xvideos.com,Adult,0,0,1,0,0,1,WGCZ,1,Czech Republic
+12,amazon.com,Marketplace,0,1,1,0,0,0,Amazon,1,United States
+13,pornhub.com,Adult,0,0,1,0,0,1,Ethical Capital Partners,1,Canada
+14,tiktok.com,Social Networks and Online Communities,0,0,1,0,0,1,ByteDance,1,China
+15,xnxx.com,Adult,0,0,1,0,0,1,WGCZ,1,Czech Republic
+16,yahoo.co.jp,News and Media,0,1,0,0,0,1,SoftBank,1,Japan
+17,live.com,Email,1,0,0,1,0,1,Microsoft,1,United States
+18,reddit.com,Social Networks and Online Communities,0,0,1,0,0,1,Reddit,1,United States
+19,docomo.ne.jp,Telecommunications,0,1,0,0,0,0,NTT,1,Japan
+20,linkedin.com,Social Networks and Online Communities,0,0,1,1,0,1,Microsoft,1,United States
+21,openai.com,Computers Electronics and Technology - Other,1,1,0,1,0,1,Microsoft,1,United States
+22,office.com,Programming and Developer Software,1,0,0,1,0,1,Microsoft,1,United States
+23,xhamster.com,Adult,0,0,1,0,0,1,Hammy Media,1,Cyprus
+24,netflix.com,TV Movies and Streaming,0,1,0,1,1,1,Netflix,1,United States
+25,dzen.ru,Community and Society - Other,0,0,1,0,0,1,VK,1,Russia
+26,microsoftonline.com,Programming and Developer Software,1,0,0,1,0,1,Microsoft,1,United States
+27,bing.com,Search Engines,0,0,0,0,0,1,Microsoft,1,United States
+28,samsung.com,Consumer Electronics,0,1,0,0,0,0,Samsung,1,South Korea
+29,bilibili.com,Animation and Comics,0,,1,0,0,1,Bilibili,1,China
+30,vk.com,Social Networks and Online Communities,0,0,1,1,0,1,VK,1,Russia
+31,naver.com,News and Media,0,0,1,0,0,1,Naver,1,South Korea
+32,mail.ru,Email,1,1,1,1,0,1,VK,1,Russia
+33,weather.com,Weather,0,1,0,0,0,0,IBM,1,United States
+34,pinterest.com,Social Networks and Online Communities,0,0,1,0,0,1,Pinterest,1,United States
+35,discord.com,Social Networks and Online Communities,0,0,1,1,0,1,Discord,1,United States
+36,twitch.tv,Video Games Consoles and Accessories,0,0,1,0,0,1,Amazon,1,United States
+37,turbopages.org,News and Media,,,,,,,,,
+38,max.com,TV Movies and Streaming,0,1,0,1,1,1,Warner Bros. Discovery,1,United States
+39,microsoft.com,Programming and Developer Software,0,1,0,0,0,0,Microsoft,1,United States
+40,zoom.us,Computers Electronics and Technology - Other,1,0,0,1,0,1,Zoom,1,United States
+41,duckduckgo.com,Search Engines,0,0,0,0,0,1,DuckDuckGo,1,United States
+42,qq.com,News and Media,0,,1,0,0,1,Tencent,1,China
+43,xhamster.desi,Adult,0,0,1,0,0,1,Hammy Media,1,Cyprus
+44,roblox.com,Video Games Consoles and Accessories,0,0,1,1,0,1,Roblox,1,United States
+45,stripchat.com,Adult,0,0,1,0,0,1,StripChat,1,United States
+46,quora.com,Dictionaries and Encyclopedias,0,0,1,1,0,1,Quora,1,United States
+47,fandom.com,Arts and Entertainment - Other,0,1,1,0,0,1,TGP,1,United States
+48,globo.com,News and Media,0,1,0,0,0,1,Globo,1,Brazil
+49,sharepoint.com,Computers Electronics and Technology - Other,1,0,0,1,1,1,Microsoft,1,United States
+50,t.me,Computers Electronics and Technology - Other,0,0,1,1,0,1,Telegram,1,United Arab Emirates
+51,ebay.com,Marketplace,0,0,1,0,0,1,Ebay,1,United States
+52,msn.com,News and Media,0,0,1,0,0,1,Microsoft,1,United States
+53,news.yahoo.co.jp,News and Media,0,1,0,0,0,1,SoftBank,1,Japan
+54,cnn.com,News and Media,0,1,0,0,0,1,Warner Bros. Discovery,1,United States
+55,indeed.com,Jobs and Employment,0,0,1,1,0,1,Recruit Holdings,1,Japan
+56,nytimes.com,News and Media,0,1,0,1,1,1,The New York Times,1,United States
+57,booking.com,Accommodation and Hotels,0,0,1,0,0,1,Booking Holdings,1,United States
+58,google.com.br,Search Engines,0,0,0,0,0,1,Alphabet,1,United States
+59,bbc.co.uk,News and Media,0,1,0,0,0,1,BBC,1,United Kingdom
+60,spankbang.com,Adult,0,0,1,0,0,1,StripChat,1,United States
+61,amazon.co.jp,Marketplace,0,1,1,0,0,0,Amazon,1,United States
+62,aajtak.in,News and Media,0,1,0,0,0,1,Living Media India,1,India
+63,ok.ru,Social Networks and Online Communities,0,0,1,1,0,1,VK,1,Russia
+64,accuweather.com,Weather,0,1,0,0,0,0,AccuWeather,1,United States
+65,zhihu.com,Social Networks and Online Communities,0,0,1,1,0,1,Zhihu,1,China
+66,espn.com,Sports - Other,0,1,0,1,1,1,Walt Disney Company,1,United States
+67,bbc.com,News and Media,0,1,0,0,0,1,BBC,1,United Kingdom
+68,rakuten.co.jp,Marketplace,0,,1,0,,,Rakuten,1,Japan
+69,canva.com,Graphics Multimedia and Web Design,1,0,0,1,0,1,Canva,1,Australia
+70,apple.com,Consumer Electronics,0,1,0,0,0,0,Apple,1,United States
+71,imdb.com,TV Movies and Streaming,0,0,1,0,0,1,Amazon,1,United States
+72,ya.ru,Search Engines,0,0,0,0,0,1,Yandex,1,Russia
+73,spotify.com,Music,0,1,1,1,0,1,Spotify,1,Sweden
+74,ssyoutube.com,Search Engines,1,0,0,0,0,1,,,
+75,instructure.com,Education,1,1,0,0,0,0,Thoma Bravo,1,United States
+76,uol.com.br,News and Media,0,1,0,0,0,1,Grupo Folha,1,Brazil
+77,cricbuzz.com,Fantasy Sports,0,1,0,0,0,1,The Times Group,1,India
+78,etsy.com,Marketplace,0,0,1,0,0,1,Etsy,1,United States
+79,yiyouliao.com,Programming and Developer Software,1,0,0,1,1,1,Youliang Technology,1,China
+80,aliexpress.com,Marketplace,0,0,1,0,0,1,Alibaba Group,1,China
+81,paypal.com,Banking Credit and Lending,0,0,0,1,1,1,Paypal,1,United States
+82,amazon.de,Marketplace,0,1,1,0,0,0,Amazon,1,United States
+83,chaturbate.com,Adult,0,0,1,0,0,1,Multi Media LLC,1,United States
+84,github.com,Programming and Developer Software,0,0,1,1,0,1,Microsoft,1,United States
+85,dailymail.co.uk,News and Media,0,1,0,0,0,1,Daily Mail and General Trust,1,United Kingdom
+86,google.de,Search Engines,0,0,0,0,0,1,Alphabet,1,United States
+87,ozon.ru,Marketplace,0,1,1,0,0,0,Ozon,1,Russia
+88,taobao.com,Marketplace,0,,1,1,,0,Alibaba Group,1,China
+89,walmart.com,Marketplace,0,1,1,0,0,0,Walton family,1,United States
+90,news.google.com,News and Media,0,0,0,0,0,1,Alphabet,1,United States
+91,wildberries.ru,Marketplace,0,1,1,0,0,0,Wildberries,1,Russia
+92,avito.ru,Classifieds,0,0,1,0,0,1,Kismet Capital Group,1,Russia
+93,miguvideo.com,TV Movies and Streaming,0,,,,,1,,,
+94,amazon.co.uk,Marketplace,0,1,1,0,0,0,Amazon,1,United States
+95,theguardian.com,News and Media,0,1,0,0,0,1,Scott Trust Limited,1,United Kingdom
+96,tripmall.online,Ecommerce and Shopping - Other,0,0,0,0,0,1,12 Co Ltd,1,Japan
+97,marca.com,Sports - Other,0,1,0,0,0,1,Cairo Communication,1,Italy
+98,pemsrv.com,Adult,,,,,,,,,
+99,messenger.com,Social Networks and Online Communities,0,0,1,1,0,1,Meta,1,United States
+100,amazon.in,Marketplace,0,1,1,0,0,0,Amazon,1,United States
+101,aniwave.to,Animation and Comics,0,0,0,0,0,1,,,
+102,pixiv.net,Visual Arts and Design,0,0,1,1,0,1,Pixiv,1,Japan
+103,archiveofourown.org,Books and Literature,0,0,1,0,0,1,Organization for Transformative Works,0,United States
+104,pinduoduo.com,Marketplace,0,0,1,1,0,1,PDD Holdings,1,Ireland
+105,aol.com,Computers Electronics and Technology - Other,0,0,0,0,0,1,Apollo,1,United States
+106,temu.com,Marketplace,0,0,1,1,0,1,PDD Holdings,1,Ireland
+107,zillow.com,Real Estate,1,1,1,0,,0,Zillow,1,United States
+108,line.me,Social Networks and Online Communities,1,0,1,1,0,1,SoftBank,1,Japan
+109,disneyplus.com,TV Movies and Streaming,0,1,0,1,1,1,Walt Disney Company,1,United States
+110,google.co.jp,Search Engines,0,0,0,0,0,1,Alphabet,1,United States
+111,onlyfans.com,Adult,0,0,1,1,1,1,Fenix International Limited,1,United Kingdom
+112,office365.com,Programming and Developer Software,1,0,0,1,1,1,Microsoft,1,United States
+113,telegram.org,Social Networks and Online Communities,0,0,1,1,0,1,Telegram,1,United Arab Emirates
+114,foxnews.com,News and Media,0,1,0,1,0,1,Murdoch family,1,United States
+115,tsyndicate.com,Marketing and Advertising,0,0,0,0,0,1,,,
+116,seznam.cz,Search Engines,0,0,0,0,0,1,Seznam,1,Czech Republic
