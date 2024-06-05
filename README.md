@@ -1,4 +1,4 @@
-# The Web Unpacked: A Quantitative Analysis of Global Web Usage
+# The Web unpacked: a quantitative analysis of global Web usage
 
 This repository contains the data and analysis for the paper [The Web unpacked: a quantitative analysis of global Web usage](https://arxiv.org/abs/2404.17095).
 
@@ -16,12 +16,8 @@ This paper presents a comprehensive analysis of global web usage patterns based 
     |   ├── raw                 <- Raw, original data
     |   ├── cleaned             <- Data cleaned by code in this project
     |   └── processed           <- Data further processed by code in this project
-    ├── analysis                <- Analysis notebooks
-    |   └── plots               <- Plots created during analysis
-    ├── scripts                 <- Auxiliary scripts
-    ├── results                 <- Final results (e.g. report, paper)
-    |   └── plots               <- Final plots used in presentations and reports
-    └── docs                    <- Documentation, logs, etc.
+    └── analysis                <- Analysis notebooks
+        └── plots               <- Plots created during analysis
     
 
 ## Annotated data
