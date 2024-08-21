@@ -29,6 +29,10 @@ The results from the manual inspection and research about the 116 most visited d
 
 The metadata about it is located here: [data/cleaned/domains-annotated_metadata_v03.md](data/cleaned/domains-annotated_metadata_v03.md).
 
+## Acknowledgements
+
+If you use any content in this repository (e.g. data, code or result), please cite the paper [The Web unpacked: a quantitative analysis of global Web usage](https://arxiv.org/abs/2404.17095).
+
 
 ## Contact
 
